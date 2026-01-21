@@ -1,0 +1,11 @@
+POST API Response is : - 01_POST_API_Request_Static.spec.ts:9 {
+  bookingid: 1560,
+  booking: {
+    firstname: 'Playwright typescript',
+    lastname: 'Testers Talks',
+    totalprice: 4001,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'Breakfast'
+  }
+}

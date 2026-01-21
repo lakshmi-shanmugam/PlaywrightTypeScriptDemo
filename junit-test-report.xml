@@ -1,0 +1,40 @@
+<testsuites id="" name="" tests="1" failures="1" skipped="0" errors="0" time="34.44132300000009">
+<testsuite name="Chapter04\05_TextContent_GetAttribute_Test.spec.ts" timestamp="2026-01-14T22:49:47.308Z" hostname="chromium" tests="1" failures="1" skipped="0" time="30.781" errors="0">
+<testcase name="Get Text &amp; Get attribute value in playwright" classname="Chapter04\05_TextContent_GetAttribute_Test.spec.ts" time="30.781">
+<failure message="05_TextContent_GetAttribute_Test.spec.ts:7:5 Get Text &amp; Get attribute value in playwright" type="FAILURE">
+<![CDATA[  [chromium] › Chapter04\05_TextContent_GetAttribute_Test.spec.ts:7:5 › Get Text & Get attribute value in playwright 
+
+    Test timeout of 30000ms exceeded.
+
+    Error: locator.waitFor: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('#repositories-tab') to be visible
+
+
+      16 |
+      17 |     // Get attribute value
+    > 18 |     await page.locator('#repositories-tab').waitFor();
+         |                                             ^
+      19 |     const attributeValue = await page.locator('#repositories-tab').getAttribute('data-selected-links');
+      20 |     console.log(`Attribute value is : ${attributeValue} - 05_TextContent_GetAttribute_Test.spec.ts:20`);
+      21 | });
+        at C:\Users\laksh\OneDrive\Desktop\Playwright Auto - Testers Talk\tests\Chapter04\05_TextContent_GetAttribute_Test.spec.ts:18:45
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\Chapter04-05_TextContent_G-6e269-tribute-value-in-playwright-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\Chapter04-05_TextContent_G-6e269-tribute-value-in-playwright-chromium\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[Name is : Lakshmi Shanmugam - 05_TextContent_GetAttribute_Test.spec.ts:14
+
+[[ATTACHMENT|test-results\Chapter04-05_TextContent_G-6e269-tribute-value-in-playwright-chromium\test-failed-1.png]]
+
+[[ATTACHMENT|test-results\Chapter04-05_TextContent_G-6e269-tribute-value-in-playwright-chromium\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

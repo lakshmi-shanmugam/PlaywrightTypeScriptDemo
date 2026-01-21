@@ -1,0 +1,29 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - separator [ref=e3]
+  - iframe [ref=e8]:
+    - generic [ref=f14e2]:
+      - generic [ref=f14e3]:
+        - checkbox "I'm not a robot" [ref=f14e7]
+        - generic [ref=f14e11]: I'm not a robot
+      - generic [ref=f14e12]:
+        - generic [ref=f14e15]: reCAPTCHA
+        - generic [ref=f14e16]:
+          - link "Privacy" [ref=f14e17] [cursor=pointer]:
+            - /url: https://www.google.com/intl/en/policies/privacy/
+          - text: "-"
+          - link "Terms" [ref=f14e18] [cursor=pointer]:
+            - /url: https://www.google.com/intl/en/policies/terms/
+  - separator [ref=e9]
+  - generic [ref=e10]:
+    - text: About this page
+    - text: Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.
+    - link "Why did this happen?" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - text: "IP address: 38.64.90.177"
+      - text: "Time: 2026-01-16T02:01:35Z"
+      - text: "URL: https://www.google.com/search?q=secret_sauce&sca_esv=9183ae7ed5bbce5f&source=hp&ei=-5tpacH6IZHNkPIPqd7AwAY&iflsig=AFdpzrgAAAAAaWmqCxVOvfzeaHrwqYCe7KTC9TWYE0jA&sei=_ptpaeLzAv2d0PEPrsO70Q4"
+```

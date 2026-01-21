@@ -1,0 +1,14 @@
+POST API Response : - 02_POST_API_Request_Dynamic.spec.ts:34{
+  "bookingid": 3107,
+  "booking": {
+    "firstname": "cypress by testers talk",
+    "lastname": "javascript by testers talk",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": "{3}"
+  }
+}

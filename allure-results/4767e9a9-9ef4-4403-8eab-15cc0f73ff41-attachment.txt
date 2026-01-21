@@ -1,0 +1,2 @@
+Name is : Lakshmi Shanmugam - 05_TextContent_GetAttribute_Test.spec.ts:14
+Attribute value is : overview /lakshmi-shanmugam - 05_TextContent_GetAttribute_Test.spec.ts:21

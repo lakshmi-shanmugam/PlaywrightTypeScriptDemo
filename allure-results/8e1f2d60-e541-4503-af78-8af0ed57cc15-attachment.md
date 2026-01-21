@@ -1,0 +1,65 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - separator [ref=e3]
+    - iframe [ref=e8]:
+      - generic [ref=f22e2]:
+        - generic [ref=f22e3]:
+          - checkbox "I'm not a robot" [ref=f22e7]
+          - generic [ref=f22e10]: I'm not a robot
+        - generic [ref=f22e11]:
+          - generic [ref=f22e14]: reCAPTCHA
+          - generic [ref=f22e15]:
+            - link "Privacy" [ref=f22e16] [cursor=pointer]:
+              - /url: https://www.google.com/intl/en/policies/privacy/
+            - text: "-"
+            - link "Terms" [ref=f22e17] [cursor=pointer]:
+              - /url: https://www.google.com/intl/en/policies/terms/
+    - separator [ref=e9]
+    - generic [ref=e10]:
+      - text: About this page
+      - text: Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.
+      - link "Why did this happen?" [ref=e11] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e12]:
+        - text: "IP address: 38.64.90.116"
+        - text: "Time: 2026-01-15T20:26:34Z"
+        - text: "URL: https://www.google.com/search?q=API+Testing+by+Testers+Talk&sca_esv=37c453c1e71916bb&source=hp&ei=d01pafGuJveZkPIPt_nIqAo&iflsig=AFdpzrgAAAAAaWlbh4s9CUNukR-VMoRi6Fl1TsE8QcgE&ved=0ahUKEwixxrrSsI6SAxX3DEQIHbc8EqUQ4dUDCBY&uact=5&oq=API+Testing+by+Testers+Talk&gs_lp=Egdnd3Mtd2l6IhtBUEkgVGVzdGluZyBieSBUZXN0ZXJzIFRhbGtIgwFQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAA&sclient=gws-wiz&sei=eU1pafG8H_LBkPIPs_L5kA4"
+  - iframe [active] [ref=e16]:
+    - dialog [ref=f25e3]:
+      - generic [ref=f25e4]:
+        - generic [ref=f25e7]:
+          - text: Select all squares with
+          - strong [ref=f25e8]: traffic lights
+          - generic [ref=f25e9]: If there are none, click skip
+        - table [ref=f25e12]:
+          - rowgroup [ref=f25e13]:
+            - row [ref=f25e14]:
+              - button [ref=f25e15]
+              - button [ref=f25e18]
+              - button [ref=f25e21]
+              - button [ref=f25e24]
+            - row [ref=f25e27]:
+              - button [ref=f25e28]
+              - button [ref=f25e31]
+              - button [active] [ref=f25e35]
+              - button [ref=f25e39]
+            - row [ref=f25e42]:
+              - button [ref=f25e43]
+              - button [ref=f25e46]
+              - button [ref=f25e49]
+              - button [ref=f25e52]
+            - row [ref=f25e55]:
+              - button [ref=f25e56]
+              - button [ref=f25e59]
+              - button [ref=f25e62]
+              - button [ref=f25e65]
+      - generic [ref=f25e71]:
+        - generic [ref=f25e72]:
+          - button "Get a new challenge" [ref=f25e74] [cursor=pointer]
+          - button "Get an audio challenge" [ref=f25e76] [cursor=pointer]
+          - button "Help" [ref=f25e78] [cursor=pointer]
+        - button "Verify" [ref=f25e80] [cursor=pointer]
+```

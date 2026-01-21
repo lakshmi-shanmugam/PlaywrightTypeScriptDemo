@@ -1,0 +1,63 @@
+Total repositories are : 6 - 06_Iterating_Elements_Test.spec.ts:11
+Repository 1 : katalon-studio-project - 06_Iterating_Elements_Test.spec.ts:14
+Repository 2 : Katalon-studio-project1 - 06_Iterating_Elements_Test.spec.ts:14
+Repository 3 : Katalon-AP-Project - 06_Iterating_Elements_Test.spec.ts:14
+Repository 4 : example-repo1 - 06_Iterating_Elements_Test.spec.ts:14
+Repository 5 : Lakshmi-Project - 06_Iterating_Elements_Test.spec.ts:14
+Repository 6 : Test-test - 06_Iterating_Elements_Test.spec.ts:14
+============ - 06_Iterating_Elements_Test.spec.ts:16
+Text from 1st loop: 
+                katalon-studio-project
+               - 06_Iterating_Elements_Test.spec.ts:20
+Text from 1st loop: 
+                Katalon-studio-project1
+               - 06_Iterating_Elements_Test.spec.ts:20
+Text from 1st loop: 
+                Katalon-AP-Project
+               - 06_Iterating_Elements_Test.spec.ts:20
+Text from 1st loop: 
+                example-repo1
+               - 06_Iterating_Elements_Test.spec.ts:20
+Text from 1st loop: 
+                Lakshmi-Project
+               - 06_Iterating_Elements_Test.spec.ts:20
+Text from 1st loop: 
+                Test-test
+               - 06_Iterating_Elements_Test.spec.ts:20
+============ - 06_Iterating_Elements_Test.spec.ts:22
+Text from 2nd loop: 
+                katalon-studio-project
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 2nd loop: 
+                Katalon-studio-project1
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 2nd loop: 
+                Katalon-AP-Project
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 2nd loop: 
+                example-repo1
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 2nd loop: 
+                Lakshmi-Project
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 2nd loop: 
+                Test-test
+               - 06_Iterating_Elements_Test.spec.ts:25
+Text from 3rd loop: 
+                katalon-studio-project
+               - 06_Iterating_Elements_Test.spec.ts:32
+Text from 3rd loop: 
+                Katalon-studio-project1
+               - 06_Iterating_Elements_Test.spec.ts:32
+Text from 3rd loop: 
+                Katalon-AP-Project
+               - 06_Iterating_Elements_Test.spec.ts:32
+Text from 3rd loop: 
+                example-repo1
+               - 06_Iterating_Elements_Test.spec.ts:32
+Text from 3rd loop: 
+                Lakshmi-Project
+               - 06_Iterating_Elements_Test.spec.ts:32
+Text from 3rd loop: 
+                Test-test
+               - 06_Iterating_Elements_Test.spec.ts:32
