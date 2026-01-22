@@ -16,7 +16,7 @@ test('Test 2', async ({ page }) => {
     //Check page title
     await expect(page).toHaveTitle(/.*Google.*/);
 })
-test.('Test 3 - Automation Exercise', async ({ page }) => {
+test('Test 3 - Automation Exercise', async ({ page }) => {
     //Go to URL
     await page.goto('https://automationexercise.com/');
     //Check page title
